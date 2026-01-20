@@ -6,14 +6,14 @@ I'm Great Bebia, a Software Development student at Brigham Young University–Id
 
 ## About Me
 
-- 🌱 I'm currently learning HTML, CSS, Java, React, and backend basics with Node.js & SQL  
-- 🎯 My goals are to build a strong portfolio, land a great internship, and master frontend development  
+- 🌱 I'm currently learning .Net and Software Engineering principles  
+- 🎯 My goals are to build a strong portfolio, land a great internship, and master software development  
 - 💬 Ask me about Python, SQL, or core web development concepts  
 
 ## Technologies and Tools
 
 - **Proficient in:** HTML, CSS, Python, SQL  
-- **Currently exploring:** React, Node.js, Java  
+- **Currently exploring:** React, .Net  
 
 ## Let's Connect!
 
