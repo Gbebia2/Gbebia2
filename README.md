@@ -1,22 +1,23 @@
 # Great Bebia
 
-Hello, GitHub! 👋  
+Full-Stack Software Developer specializing in building robust, responsive web applications, interactive user interfaces, and scalable database architectures. 
 
-I'm Great Bebia, a Software Development student at Brigham Young University–Idaho. I'm passionate about web development and always excited to build, break, and learn from projects. Welcome to my GitHub profile! 🚀  
+---
 
-## About Me
+### Core Tech Stack
 
-- 🌱 I'm currently learning .Net and Software Engineering principles  
-- 🎯 My goals are to build a strong portfolio, land a great internship, and master software development  
-- 💬 Ask me about Python, SQL, or core web development concepts  
+* **Frontend:** JavaScript (ES6+), React, Next.js (App Router), Tailwind CSS, HTML5, CSS3
+* **Backend & Databases:** Node.js, Express.js, SQL, PostgreSQL (pg-pool architecture)
+* **Automation & Scripting:** Python
+* **Version Control & Dev Tools:** Git, GitHub, Postman, Linux CLI
 
-## Technologies and Tools
+### Key Projects
 
-- **Proficient in:** HTML, CSS, Python, SQL  
-- **Currently exploring:** React, .Net  
+* **[Workspace Hub](https://github.com/gbebia2/workspace-hub):** A mobile-responsive, full-stack real-time communication platform featuring secure JWT authentication, encrypted password hashing, dynamic channel creation, and a data-persistent messaging stream.
+* **[Greenroots](https://github.com/gbebia2/greenroots):** A commercial full-stack e-commerce platform built for a natural wellness brand, integrating automated product management and custom asset delivery.
 
-## Let's Connect!
+---
 
-- Here is my LinkedIn profile; http://linkedin.com/in/gbebia2  
+### 📬 Let's Connect!
 
-Feel free to explore my repositories and connect—I’m always up for learning and collaboration!  
+* **LinkedIn:** [linkedin.com/in/gbebia2](http://linkedin.com/in/gbebia2)
